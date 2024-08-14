@@ -61,3 +61,21 @@ Adiciona o nome do altor
 <summary>Descrição de code .</summary>
 Abre a Visual Code dentro da pasta atual.
 </details>
+
+# git status
+<details>
+<summary>Descrição de git status</summary>
+mostra os arqivos com verções diferentes em vermelho e os com mesma verção em verde.
+</details>
+
+# git add
+<details>
+<summary>Descrição de git add</summary>
+Rastreia os arquivos tem comoo rastrear um unico arquivo ou ratrear todos de uma vez ponto (.) na frente do comando, pós usar o comando você poderá usar o comando 'git status' e verá o arquivo verde.
+</details>
+
+# git commit -m
+<details>
+<summary>Descrição de git commit -m</summary>
+Salva o arquivo e dmanda uma mensagem de alteração.
+</details>
