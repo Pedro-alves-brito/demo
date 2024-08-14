@@ -1,7 +1,7 @@
-# Criação de pasta por codigo
+# mkdir
 <details>
 <summary>Descrição</summary>
-mkdir (nome da pasta).
+O mkdir cria uma pasta para criar presisa por o comando e o nome na frente.
 </details>
 
 # Comandos git
@@ -13,7 +13,7 @@ mkdir (nome da pasta).
 # config
 <details>
 <summary>Descrição</summary>
-seve para aplicar uma configuração.
+Serve para aplicar uma configuração.
 </details>
 
 # Pós config
@@ -29,13 +29,13 @@ Lista as configurações.
 ### --local
 <details>
 <summary>Descrição de --local</summary>
-faz uma cofiguração apenas no projeto atual.
+Faz uma cofiguração apenas no projeto atual.
 </details>
 
 ### --global
 <details>
 <summary>Descrição de --global</summary>
-faz uma configuração em todos os projeto.
+Faz uma configuração em todos os projeto.
 </details>
 
 # Configuração de projeto
@@ -65,7 +65,7 @@ Abre a Visual Code dentro da pasta atual.
 # git status
 <details>
 <summary>Descrição de git status</summary>
-mostra os arqivos com verções diferentes em vermelho e os com mesma verção em verde.
+Mostra os arqivos com verções diferentes em vermelho e os com mesma verção em verde.
 </details>
 
 # git add
@@ -78,4 +78,16 @@ Rastreia os arquivos tem comoo rastrear um unico arquivo ou ratrear todos de uma
 <details>
 <summary>Descrição de git commit -m</summary>
 Salva o arquivo e dmanda uma mensagem de alteração.
+</details>
+
+# git alog
+<details>
+<summary>Descrição de git log</summary>
+Mostra os commit (ponto de salvamento) junto com o nome e email de quem alterou, data e hora.
+</details>
+
+# git ashow
+<details>
+<summary>Descrição de git show</summary>
+Mostra as alterações feitas do commit atual para o anterior.
 </details>
