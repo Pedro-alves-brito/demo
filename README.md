@@ -91,3 +91,16 @@ Mostra os commit (ponto de salvamento) junto com o nome e email de quem alterou,
 <summary>Descrição de git show</summary>
 Mostra as alterações feitas do commit atual para o anterior.
 </details>
+
+# ![]()
+<details>
+<summary>Descrição de ![]()</summary>
+Codigo para por uma imagem num arquivo .md, para por a imagem deverá por o nome dela dentro dos parenteses se tiver dentro de uma pasta deverá por o nome dessa pasta antes do nome da imagem e junto com isso uma /.
+</details>
+
+# Ctrl+Shift+"
+<details>
+<summary>Descrição de Ctrl+Shift+"</summary>
+Abre um Terminal de comando dentro do Visula code.
+Nesse Terminal de comando se ir na setinha perto de + poderá abrir o terminal do git Brash
+</details>
