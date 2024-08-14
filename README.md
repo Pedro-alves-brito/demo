@@ -110,3 +110,5 @@ Nesse Terminal de comando se ir na setinha perto de + poderá abrir o terminal d
 <summary>Descrição de git remote add origin</summary>
 Esse comando adiciona um repertorio online.
 </details>
+
+# Souza
